@@ -1,3 +1,15 @@
+<img src="Branding/Logo.png" align="center" height="600" />
+
+--------|--------|--------|--------|--------|--------
+
+[Website](http://ex-project.ddns.net) | [Discord](https://discord.gg/nGyzpnv)
+
+--------|--------|--------|--------|--------|--------
+
+Ex-DarkEden 2019 [X-EcutiOnner]
+
+--------|--------|--------|--------|--------|--------
+
 <p align="center">
     <a href="#build" alt="build">
         <img src="https://img.shields.io/badge/build-passing-brightgreen.svg" /></a>
